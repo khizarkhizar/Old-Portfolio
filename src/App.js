@@ -5,6 +5,7 @@ import Configs from "./configurations.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
 import "bootstrap/dist/js/bootstrap.bundle.min";
+import mypic from "../src/mypic.jpg";
 import $ from "jquery";
 import Popper from "popper.js";
 
@@ -132,7 +133,7 @@ class AboutMe extends Component {
             <div className=" col-5 d-none d-lg-block align-self-center">
               <img
                 className=" border border-secondary rounded-circle"
-                src={this.state.instaProfilePic}
+                src={mypic}
               ></img>
             </div>
             <div className=" col-lg-7">
