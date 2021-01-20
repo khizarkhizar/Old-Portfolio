@@ -1,0 +1,40 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Muhammad Khizar Hayyat",
+  "devDesc": "Computer Engineer | Programmer | Web Developer ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/khizarkhizar/",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/rana.khizar.3766",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/ranakhizar786/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/muhammad-khizar-477310150/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "ranakhizar786",
+  "instaQuerry": "/?__a=1",
+  "aboutDev": "A passionate Engineer who is looking for decent development React related job in a decent company. I have the skills in web-delelopment, and currently working on React. I have also experience in BackEnd. ",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "khizarkhizar",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
