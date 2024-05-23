@@ -1,6 +1,6 @@
 # khizarkhizar.github.io/home
 
-It is a personal static website/portfolio hosted with GitHub Pages, build to showcase my recent projects. Site URL / Demo: [khizarkhizar.github.io/home](https://khizarkhizar.github.io/home).
+It is a personal static website/portfolio hosted with GitHub Pages, build to showcase my recent projects. Site URL / Demo: [khizarkhizar.github.io/home](https://khizarkhizar.github.io/web).
 
 ## Dependencies
 
